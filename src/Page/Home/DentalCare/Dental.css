@@ -1,0 +1,9 @@
+.appoint-bg {
+    /* background-image   : url('../../../images/bg.png'); */
+    background-image: linear-gradient(rgba(29, 33, 41, 0.7), rgba(29, 33, 41, 0.7)),
+        url('../../../images/bg.png');
+    background-position: center center;
+    background-size    : cover;
+    background-repeat  : no-repeat;
+
+}

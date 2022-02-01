@@ -1,0 +1,8 @@
+.contact-bg {
+
+    background-image: linear-gradient(rgba(22, 25, 31, 0.7), rgba(22, 25, 31, 0.7)),
+        url('../../../images/appointment-bg.png');
+    background-repeat  : no-repeat;
+    background-size    : inherit;
+    background-position: center center;
+}
