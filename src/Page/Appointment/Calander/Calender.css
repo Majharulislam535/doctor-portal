@@ -1,0 +1,14 @@
+.rmdp-day.rmdp-selected span:not(.highlight) {
+    background-color: #1CC7C1;
+    box-shadow      : 0 0 3px #8798ad;
+    color           : #fff;
+}
+
+.rmdp-day.rmdp-today span {
+    background-color: #ffffff;
+    color           : rgb(0, 0, 0);
+}
+
+.rmdp-week-day {
+    color: #1CC7C1;
+}
